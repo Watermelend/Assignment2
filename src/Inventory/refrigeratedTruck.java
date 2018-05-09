@@ -23,5 +23,9 @@ public class refrigeratedTruck extends truck {
 	public double getCost() {
 		return cost;
 	}
+	
+	public boolean withinTemp(double temp) {
+		return false;
+	}
 
 }

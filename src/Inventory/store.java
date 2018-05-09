@@ -27,5 +27,29 @@ public class store {
 	public String getName() {
 		return name;
 	}
+	
+	public void addWeeklySaleLog() {
+		
+	}
+	
+	public void updateCapitalInventory() {
+		
+	}
+	
+	public void stockOrder(int quantity, int point, int amount) {
+		
+	}
+	
+	public void sendOrder() {
+		
+	}
+	
+	public void updateManifest() {
+		
+	}
+	
+	public double manifestCost() {
+		return 0;
+	}
 
 }
